@@ -1,0 +1,13 @@
+div.two{
+    background-color: lightgreen;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+div.one{
+    width: 320px;
+    padding: 15px;
+    border: 5px solid gray;
+    margin: 0;
+}
